@@ -1,5 +1,5 @@
 # HangmanGame
-Quick hangman game to be created over 3-5 days with basic GUI.
+Quick hangman game to be created over 5-7 days with basic GUI.
 
 This project will be used as an introduction to using PyQt5 and will also allow me to
 work on my python fundamentals.
